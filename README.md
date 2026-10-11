@@ -1,5 +1,8 @@
 # Career Gap Navigator
 
+**Quick start:** [Two simple ways to use Career Gap Navigator (English · 中文 · Suomi)](QUICKSTART.md).
+
+
 **Read this README in:** [English](README.md) | [简体中文](README.zh-CN.md) | [Suomi](README.fi.md)
 
 
