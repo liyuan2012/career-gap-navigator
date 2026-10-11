@@ -1,0 +1,12 @@
+# Private user/candidate data — do not commit
+private/
+private-data/
+user-data/
+cvs/
+CVs/
+raw-results/
+*.env
+.env*
+.DS_Store
+__pycache__/
+.pytest_cache/
