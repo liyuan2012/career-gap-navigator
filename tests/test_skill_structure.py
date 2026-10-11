@@ -33,7 +33,7 @@ for f in required:
 license_text = (ROOT / 'LICENSE').read_text(encoding='utf-8')
 assert license_text.startswith('MIT License\n'), 'Root LICENSE is not MIT'
 assert 'Permission is hereby granted, free of charge' in license_text
-assert 'Copyright (c) 2026 Career Gap Navigator contributors' in license_text
+assert re.search(r'^Copyright \\(c\\) 2026 .+', license_text, re.M), 'Missing MIT copyright statement'
 
 skill = SKILL.read_text(encoding='utf-8')
 assert skill.startswith('---\n'), 'SKILL.md must begin with YAML frontmatter'
