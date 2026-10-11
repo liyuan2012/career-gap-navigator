@@ -26,7 +26,7 @@
 
    \`\`\`text
    Please read the complete "Career Gap Navigator.txt" prompt in this GitHub repository and follow its instructions, including both stages:
-   https://github.com/ly2012yanzi-sys/career-gap-navigator
+   https://github.com/liyuan2012/career-gap-navigator
 
    My CV is attached.
    Target occupation:
@@ -66,7 +66,7 @@
 
    \`\`\`text
    请读取以下 GitHub 仓库中的完整 "Career Gap Navigator.txt" 提示词，并严格按照它的两个阶段执行：
-   https://github.com/ly2012yanzi-sys/career-gap-navigator
+   https://github.com/liyuan2012/career-gap-navigator
 
    我已上传 CV。
    Target occupation:
@@ -106,7 +106,7 @@
 
    \`\`\`text
    Lue tämän GitHub-repositorion "Career Gap Navigator.txt" -kehotetiedosto kokonaan ja noudata sen molempia vaiheita:
-   https://github.com/ly2012yanzi-sys/career-gap-navigator
+   https://github.com/liyuan2012/career-gap-navigator
 
    Olen ladannut CV:ni.
    Target occupation:
