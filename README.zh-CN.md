@@ -1,5 +1,8 @@
 # Career Gap Navigator
 
+**快速入门：** [两种简单使用方法（英文／中文／芬兰语）](QUICKSTART.md)。
+
+
 **阅读语言：** [English](README.md) | [简体中文](README.zh-CN.md) | [Suomi](README.fi.md)
 
 **一个以证据为基础的职业与发展机会分析工具，可作为 GitHub Agent Skill 使用，也可直接作为聊天提示词使用。**
