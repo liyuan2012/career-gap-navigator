@@ -1,5 +1,8 @@
 # Career Gap Navigator
 
+**Pikaohje:** [Kaksi helppoa käyttötapaa (englanti · kiina · suomi)](QUICKSTART.md).
+
+
 **Lue tämä README eri kielellä:** [English](README.md) | [简体中文](README.zh-CN.md) | [Suomi](README.fi.md)
 
 **Näyttöön perustuva työnhaun ja uramahdollisuuksien ohjaustyökalu, jota voi käyttää GitHub Agent Skill -taitona tai erillisenä kehotteena.**
