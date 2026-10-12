@@ -1,14 +1,24 @@
 # Career Gap Navigator
 
-**Quick start:** [Two simple ways to use Career Gap Navigator (English · 中文 · Suomi)](QUICKSTART.md).
+**From your CV to an evidence-based career development plan.** Free and open source; no coding required for the standalone prompt.
 
+**[Get started in English, 中文 or Suomi →](QUICKSTART.md)** · [Explore a fictional example](examples/fictional-session.md) · [Read the complete prompt](Career%20Gap%20Navigator.txt)
 
-**Read this README in:** [English](README.md) | [简体中文](README.zh-CN.md) | [Suomi](README.fi.md)
+**README languages:** [English](README.md) | [简体中文](README.zh-CN.md) | [Suomi](README.fi.md)
 
+Compare your CV with **real, attributable career opportunities** when reliable sources are accessible. Distinguish skills that are demonstrated, genuinely unverified, or not evidenced in the CV, then choose specific next actions instead of treating every CV omission as a skills deficit.
 
-**An evidence-first career and opportunity guidance workflow, shared as a GitHub Agent Skill and a standalone prompt.**
+### What you can expect
 
-It helps people from different professions compare their CVs with **real, attributable career opportunities**, clarify what is genuinely demonstrated versus merely absent from the CV, and decide what to verify, learn and do next. It includes focused follow-up questions, justified training choices and a personal 30/60/90-day roadmap.
+| You provide | Career Gap Navigator helps produce |
+|---|---|
+| A redacted CV, target occupation, preferred location and career level | A source-linked review of relevant opportunities and their requirements, where web access allows |
+| Answers to 3–5 focused verification questions | An updated evidence-based skills and experience assessment, with a change log |
+| Your career objective and available constraints | Up to three justified development priorities and a personalized 30/60/90-day action plan |
+
+**Illustrative distinction:** “Helped with a research project” does not, by itself, establish that someone managed the project. The workflow asks what the person actually did and preserves the evidence status until further verification. [See the fictional walkthrough](examples/fictional-session.md).
+
+**Who might use it?** Job seekers, career changers, researchers and other professionals who want a structured starting point for career planning. It is a guidance workflow, not a hiring decision or a guarantee of job outcomes.
 
 > **Pilot status.** A limited same-candidate CV comparison showed improved classification agreement after calibration. That is **not accuracy evidence** or proof of general applicability. The updated end-to-end workflow (including research-funding options and learning recommendations) has not been validated with a broad group of real users.
 
